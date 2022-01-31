@@ -1,0 +1,23 @@
+{
+  "name": "vue-finances-back",
+  "version": "1.0.0",
+  "description": "// ANOTAÇÕES PROJETO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbarros1994/vue-finances-back.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gbarros1994/vue-finances-back/issues"
+  },
+  "homepage": "https://github.com/gbarros1994/vue-finances-back#readme",
+  "dependencies": {
+    "prisma-client-lib": "1.28.3"
+  }
+}

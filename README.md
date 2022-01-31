@@ -25,3 +25,5 @@
      "- generator: javascript-client
      output: ./generated/prisma-client"
    - Para gerar basta usar o comando: prisma generate
+9. INTALAÇÃO PRISMA CLIENTE, comando: npm i -E prisma-client-lib@1.28.3
+10. CRIAÇÃO DO index.js
