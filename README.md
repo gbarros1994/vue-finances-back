@@ -46,3 +46,8 @@
 21. CRIAÇÃO DO Dockerfile
 22. CRIAÇÃO DO .dockerignore
 23. APOS TODO PROCESSO, RODAR O comando: docker compose up -d
+24. CRIAÇAO .env
+25. INSTALAÇÃO nodemon -D -E @1.18.10
+    - irá restartar meu container quando atualizado
+    - "dev": "npx nodemon --delay 1000ms"
+26. command: npm run dev
