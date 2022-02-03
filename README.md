@@ -52,3 +52,4 @@
     - "dev": "npx nodemon --delay 1000ms"
 26. command: npm run dev
 27. INSTALAÇÃO prisma-binding - Melhorar o desempenho em consultas
+28. INSTALAÇÃO jsonwebtoken
