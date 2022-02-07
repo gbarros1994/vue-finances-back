@@ -54,3 +54,4 @@
 27. INSTALAÇÃO prisma-binding - Melhorar o desempenho em consultas
 28. INSTALAÇÃO jsonwebtoken
 29. INSTALAÇÃO bcrypt - configurar bcrypt
+    - configurações password
