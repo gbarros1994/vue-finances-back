@@ -6,7 +6,15 @@ function getUserId (context) {
 
     if (Authorization) {
         const token = Authorization.replace('Bearer ', '');
-        // RETORNA TOKEN VERIFICADO
-        const {userId} = jwt.verify(token, process.env.JWT_SCRET);
+        // VERIFY TOKEN
+        const { userId } = jwt.verify(token, process.env.JWT_SCRET);
+
+        return userId;
     }
+
+    throw new Error('Not authenticated!');
+}
+
+module.exports = {
+    getUserId
 }
