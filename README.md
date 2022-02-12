@@ -1,4 +1,4 @@
----- ANOTAÇÕES PROJETO ----
+----- ANOTAÇÕES PROJETO -----
 
 1. CONFIGURAÇÕES DO DOCUMENTO docker-compose.yml
 2. INICIALIZAÇÃO DO CONTAINER / comando: docker-compose -up
